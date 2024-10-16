@@ -1,10 +1,10 @@
 .kanban {
 	display: flex;
-	padding: 30px;
+	padding: 35px;
 	width: 850px;
 	background:#009578;
 	border-radius: 5px;
-	height: 200px;
+	height: 205px;
 }
 
 .kanban * {
